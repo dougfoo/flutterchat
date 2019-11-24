@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "246423810268",
+    "firebase_url": "https://testchatfbase.firebaseio.com",
+    "project_id": "testchatfbase",
+    "storage_bucket": "testchatfbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246423810268:android:c7ec3d12ec5e2d53ec4419",
+        "android_client_info": {
+          "package_name": "ai.foostack.flutterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246423810268-s43dn2s0bipo6kri86shvprliihtpg32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_B6XRujrxDE0cKV7pDs0nf3_HP9ISKZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246423810268-s43dn2s0bipo6kri86shvprliihtpg32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
