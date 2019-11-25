@@ -109,8 +109,8 @@ class _RegistrationState extends State<Registration> {
 
   Future<void> registerUser() async {
     FirebaseUser user = await _auth.createUserWithEmailAndPassword(
-      email: 'reg@reg.com',
-      password: 'password',
+      email: email,
+      password: password,
     );
 
     Navigator.push(
@@ -192,7 +192,7 @@ class _LoginState extends State<Login> {
 
   Future<void> loginUser() async {
     FirebaseUser user = await _auth.signInWithEmailAndPassword(
-      email: 'test.email@email.com',
+      email: 'doug.foo@gmail.com',
       password: 'testpassword',
     );
 
